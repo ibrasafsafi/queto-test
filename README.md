@@ -53,13 +53,13 @@ You should use the bearer token authentication method to authenticate your reque
 <td>GET</td>
 <td>/products</td>
 <td>Get all products from the user stock articles on the database</td>
+<td></td>
 </tr>
 
 <tr>
 <td>POST</td>
 <td>/products</td>
 <td>Add a product to the user stock</td>
-</td>
 <td>
 
 ```json
@@ -79,14 +79,12 @@ You should use the bearer token authentication method to authenticate your reque
 <td>/recipes</td>
 <td>get all recipes that can be made based on the user's stock articles and the recipe ingredients</td>
 <td></td>
-<td></td>
 </tr>
 
 <tr>
 <td>POST</td>
 <td>/recipes/{recipe}</td>
 <td>validate if we can make this recipe based on the user's stock articles and decrease the quantity of the stock articles </td>
-<td></td>
 <td></td>
 </tr>
 </table>
