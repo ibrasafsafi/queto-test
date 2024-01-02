@@ -12,16 +12,16 @@
 
 To install the project, follow these steps:
 
-1. Clone the repository from github
+1. Clone the repository from github public repository ('https://github.com/ibrasafsafi/queto-test/')
 2. Run `composer install`
 3. Run `npm install`
 4. Run `npm run dev`
 5. Run `php artisan migrate`
 6. Run `php artisan db:seed`
-4. Run `php artisan serve`
-5. Go to `http://localhost:8000`
-6. Login with `admin@admin.com` and `password`
-7. Use the app!
+7. Run `php artisan serve`
+8. Go to `http://localhost:8000`
+9. Login with `admin@admin.com` and `password`
+10. Use the app!
 
 ### Use Postman to test the API
 
