@@ -63,7 +63,6 @@ You should use the bearer token authentication method to authenticate your reque
 <td>
 
 ```json
-json
 {
   "product_id": 1,
   "quantity": 1,
