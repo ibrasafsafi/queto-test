@@ -25,7 +25,7 @@ To install the project, follow these steps:
 
 ### Use Postman to test the API
 
-use the `stock-alimentaires-app.collection.json` file to import the postman collection
+use the `Queto.postman_collection.json` file to import the postman collection
 
 ## API Documentation
 
