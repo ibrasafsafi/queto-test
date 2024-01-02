@@ -5,12 +5,12 @@
 ### The requirements
 
 - PHP 8.*
-- Composer
-- NodeJS
+- Composer 2.*
+- NodeJS v18.16.*
 
 ### Installation Process
 
-To install the project, follow these steps:
+To install the project, follow the following actions:
 
 1. Clone the repository from github public repository ('https://github.com/ibrasafsafi/queto-test/')
 2. Run `composer install`
@@ -65,8 +65,8 @@ You should use the bearer token authentication method to authenticate your reque
 ```json
 {
   "product_id": 1,
-  "quantity": 1,
-  "expiration_date": "2025-01-01"
+  "quantity": 6,
+  "expiration_date": "2024-01-12"
 }
 ```
 
